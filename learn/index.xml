@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>හැදෑරීම on අභිධර්මය</title>
+    <title>අධ්‍යයනය on අභිධර්මය</title>
     <link>https://abhidhamma.lk/learn/</link>
-    <description>Recent content in හැදෑරීම on අභිධර්මය</description>
+    <description>Recent content in අධ්‍යයනය on අභිධර්මය</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2024 10:57:40 +1000</lastBuildDate>
     <atom:link href="https://abhidhamma.lk/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>අභිධර්ම පිටකය අධ්‍යයනය</title>
+      <link>https://abhidhamma.lk/learn/learn-introduction/</link>
+      <pubDate>Thu, 08 Feb 2024 12:46:09 +1000</pubDate>
+      <guid>https://abhidhamma.lk/learn/learn-introduction/</guid>
+      <description>පහාරාද සූත්‍රයේ වදාළ පරිදි මහමුහුද අනුපිළිවෙළින් ගැඹුරු වන්නා සේ බුද්ධ ශාසනය ද අනුපූර්ව හික්මීම, අනුපූර්ව ක්‍රියා පිළිවෙළ සහ අනුපූර්ව ප්‍රතිපත්තියෙන් යුක්ත වූවකි. අනුපූර්ව ප්‍රතිපදාවකින් තොර ව අර්හත්වය සාක්ෂාත් කළ නොහැක. පර්යාප්ති ශාසනය සැලකූ විට සෙසු පිටකයන්ට වඩා අභිධර්ම පිටකය අනුපූර්ව ශික්ෂණයකින් යුතුව ගමන් කළ යුතු වේ. කවර හෙයකින් ද යත්, අභිධර්ම පිටකය බුදුරජාණන් වහන්සේ විසින් තෙමසක් පුරා අඛණ්ඩව කරනා ලද දේශනාවක් බැවින් එය සකල අභිධර්ම දේශනාව ම හා සම්බන්ධව පවතින්නක් බැවිනි.</description>
+    </item>
   </channel>
 </rss>
